@@ -1,18 +1,7 @@
-/*
-  ==============================================================================
-
-    This file contains the basic framework code for a JUCE plugin processor.
-
-  ==============================================================================
-*/
-
 #pragma once
 
 #include <JuceHeader.h>
 
-//==============================================================================
-/**
-*/
 class NewProjectAudioProcessor  : public juce::AudioProcessor
 {
 public:
