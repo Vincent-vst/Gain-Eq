@@ -1,5 +1,9 @@
-# gain
-just a gain plugin (Audio Unit)
+# Gain-EQ
+
+## About 
+
+It's just a gain plugin (Audio Unit) made with the juce Framework.   
+I'm slowly adding an EQ to the plugin but it's not finished yet. 
 
 <!--![](medias/screenshot.png)  -->
 
